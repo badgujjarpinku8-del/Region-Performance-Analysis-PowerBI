@@ -1,2 +1,25 @@
-# Region-Performance-Analysis-PowerBI
-Power BI dashboard analyzing regional sales and profit performance, including region comparison, sales ranking, and visual reporting.
+Project Overview
+
+
+
+Objective
+
+
+
+Tools Used: Excel, Power BI
+
+
+
+Dataset Description
+
+
+
+Sales and Profit Comparison
+
+
+
+Regional Ranking
+
+
+
+Key Insights
